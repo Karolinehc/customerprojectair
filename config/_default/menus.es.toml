@@ -1,0 +1,76 @@
+############# French navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = "http://gomarketingdata.com/"
+weight = 1
+
+[[main]]
+name = "Acerca de"
+url = "http://gomarketingdata.com/about/"
+weight = 2
+
+
+
+[[main]]
+name = "Blog"
+url = "http://gomarketingdata.com/blog/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Mas"
+hasChildren = true
+
+  [[main]]
+  parent = "Mas"
+  name = "Servicio"
+  url = "http://gomarketingdata.com/service/"
+  weight = 1
+
+  [[main]]
+  parent = "Mas"
+  name = "Precio"
+  url = "http://gomarketingdata.com/pricing/"
+  weight = 2
+
+  [[main]]
+  parent = "Mas"
+  name = "Preguntas Frecuentes"
+  url = "http://gomarketingdata.com/faq/"
+  weight = 3
+  
+[[main]]
+name = "Contacto"
+url = "http://gomarketingdata.com/contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "Acerca de"
+url = "http://gomarketingdata.com/about/"
+weight = 2
+
+
+
+[[footer]]
+name = "Servicio"
+url = "http://gomarketingdata.com/service/"
+weight = 4
+
+[[footer]]
+name = "Precio"
+url = "http://gomarketingdata.com/pricing/"
+weight = 5
+
+[[footer]]
+name = "Preguntas frecuentes"
+url = "http://gomarketingdata.com/faq/"
+weight = 6
+
+[[footer]]
+name = "Contacto"
+url = "http://gomarketingdata.com/contact/"
+weight = 7

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on GomarKetingData | Digital Marketing Agency</title>
+    <link>http://gomarketingdata.com/tags/python/</link>
+    <description>Recent content in Python on GomarKetingData | Digital Marketing Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="http://gomarketingdata.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pretty-print dates</title>
+      <link>http://gomarketingdata.com/blog/date-i18n/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>http://gomarketingdata.com/blog/date-i18n/</guid>
+      <description>To write out an ISO 8601 timestamp in the current language, you can use the date_l10n shortcode:</description>
+    </item>
+    
+    <item>
+      <title>Maximizing Conversions: Understanding Google Ads&#39; Call Tracking Metrics</title>
+      <link>http://gomarketingdata.com/blog/google-ads-call/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>http://gomarketingdata.com/blog/google-ads-call/</guid>
+      <description>The success of a digital marketing campaign is often measured by its ability to attract relevant traffic, engage users effectively, and convert them into qualified leads that have the potential to become loyal customers or clients.</description>
+    </item>
+    
+  </channel>
+</rss>

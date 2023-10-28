@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnologia on GomarKetingData | Digital Marketing Agency</title>
+    <link>http://gomarketingdata.com/es/tags/tecnologia/</link>
+    <description>Recent content in Tecnologia on GomarKetingData | Digital Marketing Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="http://gomarketingdata.com/es/tags/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pretty-print dates</title>
+      <link>http://gomarketingdata.com/es/blog/date-i18n/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>http://gomarketingdata.com/es/blog/date-i18n/</guid>
+      <description>Para escribir una marca de tiempo ISO 8601 en el idioma actual, puede usar el código abreviado date_l10n:</description>
+    </item>
+    
+  </channel>
+</rss>

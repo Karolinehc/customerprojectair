@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on GomarKetingData | Digital Marketing Agency</title>
+    <link>http://gomarketingdata.com/es/author/</link>
+    <description>Recent content in Authors on GomarKetingData | Digital Marketing Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language><atom:link href="http://gomarketingdata.com/es/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equipo Marketing de Contenido</title>
+      <link>http://gomarketingdata.com/es/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomarketingdata.com/es/author/mark-dinn/</guid>
+      <description>A través de las corrientes sociales, lanzan su red, Corazones cautivadores, nunca olvidan, Me gusta y comparte, un arte digital, Construyendo conexiones, nunca separados.</description>
+    </item>
+    
+    <item>
+      <title>Equipo Marketing De Contenido</title>
+      <link>http://gomarketingdata.com/es/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gomarketingdata.com/es/author/john-doe/</guid>
+      <description>En el ámbito del código y el byte, Donde los algoritmos bailan en la noche, Un comercializador digital teje su hechizo, Creando historias que realmente obligan.</description>
+    </item>
+    
+  </channel>
+</rss>

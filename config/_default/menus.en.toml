@@ -1,0 +1,71 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "http://gomarketingdata.com/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "http://gomarketingdata.com/about/"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "http://gomarketingdata.com/blog/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "More"
+hasChildren = true
+
+  [[main]]
+  parent = "More"
+  name = "Service"
+  url = "http://gomarketingdata.com/service/"
+  weight = 1
+
+  [[main]]
+  parent = "More"
+  name = "Pricing"
+  url = "http://gomarketingdata.com/pricing/"
+  weight = 2
+
+  [[main]]
+  parent = "More"
+  name = "FAQ"
+  url = "http://gomarketingdata.com/faq/"
+  weight = 3
+  
+[[main]]
+name = "Contact"
+url = "http://gomarketingdata.com/contact/"
+weight = 6
+
+# footer menu
+[[footer]]
+name = "About"
+url = "http://gomarketingdata.com/about/"
+weight = 2
+
+[[footer]]
+name = "Service"
+url = "http://gomarketingdata.com/service/"
+weight = 3
+
+[[footer]]
+name = "Pricing"
+url = "http://gomarketingdata.com/pricing/"
+weight = 4
+
+[[footer]]
+name = "FAQ"
+url = "http://gomarketingdata.com/faq/"
+weight = 5
+
+[[footer]]
+name = "Contact"
+url = "http://gomarketingdata.com/contact/"
+weight = 6
